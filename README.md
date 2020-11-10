@@ -1,2 +1,2 @@
-# layer-ui-frontend-react-web-app
-This App is for creating UI good quality and reusable elements in React
+# layer-network-frontend-react-web-app
+This App is for handling the HTTP requests necessary to connect the frontend with the backend of an App!!
